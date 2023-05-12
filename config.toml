@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'La Historia Interminable'
+
+theme = "hugo-PaperMod"
+
+[params]
+	github = "https://github.com/aaron-imbrock"
+	linkedin = "https://www.linkedin.com/in/aaron-imbrock/"
