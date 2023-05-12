@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://aaronimbrock.com/'
 languageCode = 'en-us'
 title = 'La Historia Interminable'
 
@@ -7,3 +7,9 @@ theme = "hugo-PaperMod"
 [params]
 	github = "https://github.com/aaron-imbrock"
 	linkedin = "https://www.linkedin.com/in/aaron-imbrock/"
+
+[[menu.main]]
+	identifier = "blog"
+	name = "Articles"
+	title = "Articles"
+	url = "/blog"
