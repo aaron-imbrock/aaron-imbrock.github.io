@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Digital Learnings</title>
+    <link>http://aaronimbrock.com/blog/</link>
+    <description>Recent content in Blogs on Digital Learnings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 May 2023 00:30:05 -0600</lastBuildDate><atom:link href="http://aaronimbrock.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://aaronimbrock.com/blog/first-post/</link>
+      <pubDate>Fri, 12 May 2023 00:30:05 -0600</pubDate>
+      
+      <guid>http://aaronimbrock.com/blog/first-post/</guid>
+      <description>What&amp;rsquo;s this about? In order to track my learnings I&amp;rsquo;ve decided to start a blog. I expect most of this will be technical related but expect some random things, too.</description>
+    </item>
+    
+    <item>
+      <title>Automatically reloading modules in IPython3</title>
+      <link>http://aaronimbrock.com/blog/ipython-autoreload/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>http://aaronimbrock.com/blog/ipython-autoreload/</guid>
+      <description>How to automatically reload modules in IPython IPython is a powerful tool with two primary uses. It can be used as an integrated development environment for Python, similar but more feature-rich than IDLE, or it can be used for Jupyter notebooks. We&amp;rsquo;re not going to cover notebooks as I rarely use them but this post would still apply.
+I use ipython for rapidly iterating on ideas and new coding projects. A common workflow involves a python editor open on one side of the screen and ipython in a terminal open on the other side.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 baseURL = 'http://aaronimbrock.com/'
 languageCode = 'en-us'
-title = 'La Historia Interminable'
+title = 'Digital Learnings'
 
 theme = "hugo-PaperMod"
 
