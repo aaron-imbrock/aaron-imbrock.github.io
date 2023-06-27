@@ -1,6 +1,6 @@
 ---
 title: "Automatically reloading modules in IPython3"
-date: 2022-11-20T09:03:20-08:00
+date: 2023-06-27T09:03:20-08:00
 draft: false
 ---
 ## How to automatically reload modules in IPython
